@@ -1,4 +1,4 @@
-# BTK Akademi: Yapay Zeka ve Makine Öğrenmesi Yolculuğu
+# Yapay Zeka ve Makine Öğrenmesi Yolculuğu
 
 Bu repository, **BTK Akademi** bünyesinde tamamladığım Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme eğitimleri süresince aldığım kapsamlı ders notlarını, teorik bilgileri ve uygulama stratejilerini içermektedir.
 
