@@ -1,2 +1,46 @@
-# Yapay_Zeka_Ders_Notlari
-In this repository, I will share the lecture notes I received from BTK Academy and the training I received in this field in the field of AI).
+# BTK Akademi: Yapay Zeka ve Makine Öğrenmesi Yolculuğu
+
+Bu repository, **BTK Akademi** bünyesinde tamamladığım Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme eğitimleri süresince aldığım kapsamlı ders notlarını, teorik bilgileri ve uygulama stratejilerini içermektedir.
+
+## 🚀 İçerik Özeti
+
+Repository içerisindeki notlar, temel yapay zeka kavramlarından başlayarak günümüzün en popüler teknolojisi olan Büyük Dil Modellerine (LLM) kadar uzanan geniş bir yelpazeyi kapsamaktadır:
+
+### 1. Yapay Zekaya Giriş (Introduction to AI)
+
+* Yapay zekanın tanımı, tarihçesi ve temel çalışma prensipleri.
+* Kullanım alanları (Sağlık, Finans, Eğitim vb.).
+* Etik kavramlar ve **Sorumluluk Sahibi Yapay Zeka (Responsible AI)** yaklaşımları.
+
+### 2. Makine Öğrenmesi (Machine Learning)
+
+* Gözetimli, Gözetimsiz ve Pekiştirmeli Öğrenme modelleri.
+* **Hiperparametre Ayarlama (Tuning):** Grid Search ve Random Search yöntemleri.
+* Model başarısını artırma ve aşırı uyum (overfitting) ile mücadele yöntemleri.
+
+### 3. Derin Öğrenmeye Giriş (Deep Learning)
+
+* Yapay Sinir Ağları (YSA) mimarisi ve çalışma mantığı.
+* **Google Brain ve AlphaGo:** Derin öğrenmenin dönüm noktaları ve stratejik başarıları.
+* Katmanlı yapılar ve karmaşık veri desenlerinin çözümlenmesi.
+
+### 4. Büyük Dil Modellerine Giriş (Large Language Models - LLM)
+
+* **Transformer** mimarisi ve tokenizasyon süreçleri.
+* GPT-4 ve benzeri modellerin çalışma prensipleri (Girdi -> İşlem -> Çıktı).
+* **Evaluation & Benchmarking:** MMLU, TruthfulQA ve MT-Bench gibi performans ölçüm metrikleri.
+
+---
+
+## 🛠 Kullanılan Teknolojiler ve Araçlar
+
+* **Python:** Veri işleme ve modelleme.
+* **TensorFlow / Keras:** Derin öğrenme mimarileri.
+* **Scikit-Learn:** Makine öğrenmesi algoritmaları ve değerlendirme metrikleri.
+* **Pandas & NumPy:** Veri analizi ve manipülasyonu.
+
+---
+
+> *Bu notlar BTK Akademi eğitim içerikleri referans alınarak hazırlanmıştır.*
+
+---
